@@ -7,14 +7,10 @@
 
 I have experience in:
 
-* User research (interviews, questionnaires, user testing)
+* User research
 * Insight extraction & user modeling
-* User personas, empathy maps & user journeys
-* Information architecture & tree testing
+* Information architecture
 * Heuristic evaluation & usability testing
-
-On the UI side, I:
-
 * Design interfaces using **Figma**
 * Build **design systems** (components, variables, styles)
 * Apply **atomic design principles**
@@ -22,7 +18,6 @@ On the UI side, I:
 
 I enjoy blending **design + code**, and I aim to work in a hybrid role where I can craft interfaces and bring them to life through frontend development.
 
----
 
 ## 🌱 Soft Skills
 
@@ -30,7 +25,6 @@ I enjoy blending **design + code**, and I aim to work in a hybrid role where I c
 * **Creative sensitivity**
 * **Adaptability**
 
----
 
 ## ⚙️ Current Stack
 
@@ -39,44 +33,37 @@ I enjoy blending **design + code**, and I aim to work in a hybrid role where I c
 * Figma
 * Adobe Suite
 * Stitch (AI-assisted ideation)
-* Notion
 
-### 💻 Development
+### 💻 Development (learning)
 
 * HTML
 * CSS
 * JavaScript
 * VS Code
 
-### 🤖 Tools & AI
+### 🤖 Tools
 
 * ChatGPT (prompting)
 * NotebookLM
-* Google Workspace
-* Zoom
-* Brave
+* Notion
 
----
 
 ## 🚀 Currently
 
 * 🎓 Fullstack + AI Bootcamp @ Factoria F5 (FEMCODERS P9)
-* 🌱 Learning backend & expanding my frontend skills
 * 🎯 Looking for a hybrid role (UX/UI + Frontend)
 
----
 
 ## 📫 Contact
 
-* 💼 LinkedIn: *[Add your link here]*
+* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/nayeli-c%C3%B3rdova-mendoza)
 * 📧 Email: *[Add your email here]*
 * 🌐 Portfolio: *[Add your portfolio here]*
 
----
 
 ## 📊 GitHub Stats (Optional)
 
-![Nayeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nagicome03)](https://git.io/streak-stats)
 
 ---
 
