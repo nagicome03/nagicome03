@@ -5,20 +5,6 @@
 * **📍Born in Peru, raised in Spain**
 * **Interested in UX/UI and web development**
 
-I have experience in:
-
-* User research
-* Insight extraction & user modeling
-* Information architecture
-* Heuristic evaluation & usability testing
-* Design interfaces using **Figma**
-* Build **design systems** (components, variables, styles)
-* Apply **atomic design principles**
-* Use tools like **Stitch** for ideation and moodboarding
-
-I enjoy blending **design + code**, and I aim to work in a hybrid role where I can craft interfaces and bring them to life through frontend development.
-
-
 ## 🌱 Soft Skills
 
 * **Curiosity & continuous learning**
