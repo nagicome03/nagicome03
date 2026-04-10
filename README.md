@@ -56,9 +56,10 @@ I enjoy blending **design + code**, and I aim to work in a hybrid role where I c
 
 ## 📫 Contact
 
-* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/nayeli-c%C3%B3rdova-mendoza)
-* 📧 Email: *[Add your email here]*
-* 🌐 Portfolio: *[Add your portfolio here]*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/nayeli-c%C3%B3rdova-mendoza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://www.figma.com/proto/qWjyRnwOAJdgSxKv1DPjMQ/Portafolio-Nayeli-CM?node-id=11-55&p=f&viewport=-993%2C232%2C0.45&t=UEWaxuYyB6DzgmAu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+[![Email](https://img.shields.io/badge/Email-Contact_me-red?style=for-the-badge&logo=gmail)](mailto:nayeligiselle.0206@gmail.com)
+
 
 
 ## 📊 GitHub Stats (Optional)
