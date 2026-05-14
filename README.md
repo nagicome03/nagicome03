@@ -1,5 +1,7 @@
 # Nayeli Córdova Mendoza
 
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/04d5f381-a893-4802-9fce-700daeb29804" />
+
 ## 🧠 About Me
 * **👩‍🎓Digital Design and Creation - UOC**
 * **📍Born in Peru, raised in Spain**
@@ -48,10 +50,7 @@
 
 
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nagicome03)](https://git.io/streak-stats)
 
----
-
-💡 *"Design is not just how it looks, but how it makes people feel and interact."*
