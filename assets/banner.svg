@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#2d1b3d"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .title { font-size: 34px; font-weight: 700; fill: #F78CA0; }
+      .sub { font-size: 16px; fill: #C7A4F5; }
+      .prompt { font-size: 16px; fill: #8a8aa8; }
+      .cursor { animation: blink 1s steps(1) infinite; fill: #F78CA0; }
+      .fade { opacity: 0; animation: fadein 0.8s ease forwards; }
+      .d1 { animation-delay: 0.3s; }
+      .d2 { animation-delay: 1s; }
+      .d3 { animation-delay: 1.7s; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fadein { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+
+  <circle cx="30" cy="28" r="6" fill="#F78CA0"/>
+  <circle cx="52" cy="28" r="6" fill="#C7A4F5"/>
+  <circle cx="74" cy="28" r="6" fill="#8a8aa8"/>
+
+  <text x="40" y="80" class="mono prompt fade d1">nayeli@portfolio:~$ whoami</text>
+  <text x="40" y="130" class="mono title fade d2">Nayeli Córdova Mendoza</text>
+  <text x="40" y="165" class="mono sub fade d3">UX/UI Designer · Frontend en formación</text>
+  <rect x="40" y="180" width="12" height="20" class="cursor"/>
+</svg>
