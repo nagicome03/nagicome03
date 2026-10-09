@@ -9,11 +9,6 @@
 ![Retrato ASCII animado de Nayeli](assets/ascii-me.svg)
 
 
-## 🧠 About Me
-* **👩‍🎓Digital Design and Creation - UOC**
-* **📍Born in Peru, raised in Spain**
-* **Interested in UX/UI and web development**
-
 ## 🌱 Soft Skills
 
 * **Curiosity & continuous learning**
