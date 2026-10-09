@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2600&pause=900&color=D7B6CB&center=true&vCenter=true&width=900&height=60&lines=Nayeli+C%C3%B3rdova+%E2%80%94+UX%2FUI+Designer;Frontend+Developer+en+formaci%C3%B3n;Fullstack+%2B+AI+Bootcamp+%40+Factoria+F5;Buscando+rol+h%C3%ADbrido+UX%2FUI+%2B+Frontend)](https://github.com/nagicome03)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2600&pause=900&color=D7B6CB&Center=true&vCenter=true&width=900&height=60&lines=Nayeli+C%C3%B3rdova+M.+%E2%80%94+UX%2FUI+Designer;Fullstack+Developer+en+formaci%C3%B3n;Fullstack+%2B+AI+Bootcamp+%40+Factoria+F5;Buscando+rol+h%C3%ADbrido+UX%2FUI+%2B+Frontend)](https://github.com/nagicome03)
 
 </div>
-
-![Banner](assets/banner.svg)
 
 ![Retrato ASCII animado de Nayeli](assets/ascii-me.svg)
 
