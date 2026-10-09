@@ -6,6 +6,8 @@
 
 ![Banner](assets/banner.svg)
 
+![Retrato ASCII animado de Nayeli](assets/ascii-me.svg)
+
 
 ## 🧠 About Me
 * **👩‍🎓Digital Design and Creation - UOC**
